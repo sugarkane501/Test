@@ -15,7 +15,7 @@
    slide window
    preSum array
    diff array
-   greedy(贪心)
+   greedy(贪心) test
 
 3.General binary thinking method:
 
